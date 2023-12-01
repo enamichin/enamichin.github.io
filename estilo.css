@@ -1,0 +1,10 @@
+
+body{
+    background-color: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+    width: 1100;
+    margin: 100px auto;
+    border: 1px solid white;
+}
